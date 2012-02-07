@@ -10,13 +10,13 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : Chad Myers
-tagline: Site Tagline
+tagline: 
 author :
   name : Chad Myers
   email : chad.myers@gmail.com
   github : chadmyers
   twitter : chadmyers
-  feedburner : ChadMyersBlog
+  feedburner : ChadMyers
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -81,7 +81,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : chadmyers
     livefyre :
       site_id : 123
     intensedebate :
